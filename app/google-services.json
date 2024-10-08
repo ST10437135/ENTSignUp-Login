@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457301520638",
+    "project_id": "ent-three-pages",
+    "storage_bucket": "ent-three-pages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457301520638:android:3e574ce27eac37f595f5af",
+        "android_client_info": {
+          "package_name": "com.example.etnthreepagesv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvtq-ErkJ0a4k7K3jAtcLik96_WQhMtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
